@@ -6,7 +6,7 @@ Frontend: https://fkadu.netlify.app/
 Bacend: https://back-end-6t80.onrender.com
 
 
-#Project clone from github repository
+## Project clone from github repository
 
 git clone https://github.com/SE-fka/DebtStock
 
@@ -20,10 +20,6 @@ npm install
 
 npm start
 
-Build application
-
-npm run build
-
 
 ## ABOUT THE BackEND PROJECT
 
@@ -32,8 +28,6 @@ Node Js version 20
 cd Backend
 
 npm install
-
-Project run
 
 npm start
  
