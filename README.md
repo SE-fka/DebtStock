@@ -1,7 +1,5 @@
 
-
-
- #Live demo 
+ ## Live demo 
 
 Frontend: https://fkadu.netlify.app/
 
@@ -12,7 +10,7 @@ Bacend: https://back-end-6t80.onrender.com
 
 git clone https://github.com/SE-fka/DebtStock
 
-#ABOUT THE FRONTEND PROJECT 
+## ABOUT THE FRONTEND PROJECT 
 
 React Js version 18
 
@@ -27,7 +25,7 @@ Build application
 npm run build
 
 
-#ABOUT THE BackEND PROJECT
+## ABOUT THE BackEND PROJECT
 
 Node Js version 20
 
@@ -38,13 +36,10 @@ npm install
 Project run
 
 npm start
+ 
 
-#Project run using docker
+ ## sample Image
 
-run docker-compose
-
-docker-compose up -d
-
-docker build -t song-app .      
-
-docker run -p 5000:5000 song-app    
+ ![alt text](image.png)
+ 
+ ![alt text](image-1.png)
