@@ -21,7 +21,7 @@ npm install
 npm start
 
 
-## ABOUT THE BackEND PROJECT
+## ABOUT THE BACKEND PROJECT
 
 Node Js version 20
 
