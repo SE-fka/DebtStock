@@ -30,7 +30,12 @@ cd Backend
 npm install
 
 npm start
- 
+
+## Data collection 
+
+1. External debt data: https://datatopics.worldbank.org/debt/ids/countryanalytical/eth/counterpartarea/wld.
+
+2. Education expenditure data: https://data.worldbank.org/indicator/SE.XPD.TOTL.GB.ZS
 
  ## sample Image
 
